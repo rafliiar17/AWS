@@ -17,7 +17,7 @@
 </head>
 <body>
     <div id="wrapper">
-            <h2 align="center">AWS - Attendance Web System</h2>
+            <h2 align="center">AWS - Attendance Web System SUDAH GIT</h2>
         <div id="navbar">
             <ul>
                 <!-- <li><a class="linked" href="#">Home</a></li> -->
